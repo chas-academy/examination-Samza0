@@ -40,7 +40,7 @@ int main() {
         total5 += score;
     }
 
-    // Capitalize first letter of names
+    // Capitalize first letter of student names
     if (name1[0] >= 'a' && name1[0] <= 'z') name1[0] -= 32;
     if (name2[0] >= 'a' && name2[0] <= 'z') name2[0] -= 32;
     if (name3[0] >= 'a' && name3[0] <= 'z') name3[0] -= 32;
